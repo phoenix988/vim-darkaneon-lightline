@@ -1,5 +1,5 @@
 " =============================================================================
-" Filename: autoload/lightline/colorscheme/quack_dark.vim
+" Filename: autoload/lightline/colorscheme/darkaneon_dark.vim
 " Version: 0.0
 " Author: pearofducks
 " License: MIT License
