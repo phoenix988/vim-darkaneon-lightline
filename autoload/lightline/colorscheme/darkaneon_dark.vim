@@ -41,4 +41,4 @@ let s:p.tabline.right =[ [ s:base01, s:base02 ] ]
 let s:p.normal.error = [ [ s:base2, s:red ] ]
 let s:p.normal.warning = [ [ s:base02, s:yellow ] ]
 
-let g:lightline#colorscheme#quack_dark#palette = lightline#colorscheme#flatten(s:p)
+let g:lightline#colorscheme#darkaneon_dark#palette = lightline#colorscheme#flatten(s:p)

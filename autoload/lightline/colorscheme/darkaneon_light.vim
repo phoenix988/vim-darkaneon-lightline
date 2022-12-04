@@ -1,5 +1,5 @@
 " =============================================================================
-" Filename: autoload/lightline/colorscheme/quack_light.vim
+" Filename: autoload/lightline/colorscheme/darkaneon.vim
 " Version: 0.0
 " Author: pearofducks
 " License: MIT License
@@ -50,4 +50,4 @@ let s:p.tabline.right =[ [ s:base01, s:base02 ] ]
 let s:p.normal.error = [ [ s:base2, s:red ] ]
 let s:p.normal.warning = [ [ s:base02, s:yellow ] ]
 
-let g:lightline#colorscheme#quack_light#palette = lightline#colorscheme#flatten(s:p)
+let g:lightline#colorscheme#darkaneon_light#palette = lightline#colorscheme#flatten(s:p)
